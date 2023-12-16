@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ROSAssets",
+	"Description": "ROSAssets",
+	"Category": "Robotics",
+	"CreatedBy": "Rapyuta Robotics",
+	"CreatedByURL": "https://www.rapyuta-robotics.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ROSAssets",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+ 		{
+			"Name": "rclUE",
+			"Enabled": true
+		},
+		{
+			"Name": "RapyutaSimulationPlugins",
+			"Enabled": true
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
+		}
+   ]
+}
