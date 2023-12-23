@@ -1,6 +1,6 @@
 # ROSAssets
 
-UnrealEngine ROS Assets
+UnrealEngine ROS Assets. Meshes are imported from https://github.com/yuokamoto/blender_models 
 
 # Maintainer
 
