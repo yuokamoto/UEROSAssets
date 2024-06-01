@@ -16,5 +16,5 @@ void FROSAssetsModule::ShutdownModule()
 }
 
 #undef LOCTEXT_NAMESPACE
-DEFINE_LOG_CATEGORY(LogRapyutaCore);
+DEFINE_LOG_CATEGORY(LogRapyutaAssets);
 IMPLEMENT_MODULE(FROSAssetsModule, ROSAssets)

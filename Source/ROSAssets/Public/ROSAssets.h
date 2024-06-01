@@ -25,4 +25,4 @@ public:
     virtual void ShutdownModule() override;
 };
 
-DECLARE_LOG_CATEGORY_EXTERN(LogRapyutaCore, Log, All);
+DECLARE_LOG_CATEGORY_EXTERN(LogRapyutaAssets, Log, All);
